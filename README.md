@@ -4,10 +4,14 @@
 
 
 
+
+
 # 官方网站
 
 * http://matplotlib.org/
 * https://matplotlib.org/gallery/index.html
+
+
 
 
 
@@ -16,6 +20,9 @@
 * https://www.matplotlib.org.cn/
 * https://www.matplotlib.org.cn/home.html
 * https://github.com/apachecn/matplotlib-doc-zh
+* https://www.runoob.com/w3cnote/matplotlib-tutorial.html
+
+
 
 
 
@@ -29,4 +36,11 @@
 
 * https://github.com/rasbt/matplotlib-gallery
 * https://matplotlib.org/gallery/index.html
+
+
+
+
+
+
+
 
