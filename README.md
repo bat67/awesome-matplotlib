@@ -21,7 +21,7 @@
 * https://www.matplotlib.org.cn/home.html
 * https://github.com/apachecn/matplotlib-doc-zh
 * https://www.runoob.com/w3cnote/matplotlib-tutorial.html
-
+* https://morvanzhou.github.io/tutorials/data-manipulation/plt/
 
 
 
