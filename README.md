@@ -29,7 +29,7 @@
 # 其他教程
 
 * https://github.com/rougier/matplotlib-tutorial
-
+* https://github.com/matplotlib/AnatomyOfMatplotlib
 
 
 # matplotlib-gallery
