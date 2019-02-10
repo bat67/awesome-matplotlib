@@ -30,6 +30,9 @@
 
 * https://github.com/rougier/matplotlib-tutorial
 * https://github.com/matplotlib/AnatomyOfMatplotlib
+* https://github.com/matplotlib/jupyter-matplotlib
+
+
 
 
 # matplotlib-gallery
