@@ -31,7 +31,7 @@
 * https://github.com/rougier/matplotlib-tutorial
 * https://github.com/matplotlib/AnatomyOfMatplotlib
 * https://github.com/matplotlib/jupyter-matplotlib
-
+* https://github.com/jbmouret/matplotlib_for_papers
 
 
 
