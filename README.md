@@ -32,7 +32,7 @@
 * https://github.com/matplotlib/AnatomyOfMatplotlib
 * https://github.com/matplotlib/jupyter-matplotlib
 * https://github.com/jbmouret/matplotlib_for_papers
-
+* https://github.com/juliangaal/python-cheat-sheet/tree/master/Matplotlib
 
 
 # matplotlib-gallery
